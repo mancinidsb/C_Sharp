@@ -9,6 +9,11 @@
             {
                 Console.WriteLine($"Este é o i: {i}");
             }
+
+            while (true)
+            {
+                Console.Write("While Infinito!");
+            }
         }
     }
 }
